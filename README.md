@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sakshiga
+- 👋 Hi, I’m Sakshi
 - 👀 I’m interested in Salesforce development.
 - 🌱 I’m currently learning Salesforce Development and LWC.
 - 💞️ I’m looking to collaborate on ...
